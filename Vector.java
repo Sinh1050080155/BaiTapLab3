@@ -89,7 +89,7 @@ public double setnhanHSvt2(){
     Double nhanhs1 = this.a * this.k;
     Double nhanhs2 = this.b * this.k;
     Double nhanhs3 = this.c * this.k;
-    System.out.println("Vector1 nhan voi hang so: " + "(a*k)= "+nhanhs1 +" (b*k)= "+ nhanhs2 +" (c*k)= "+ nhanhs3);
+    System.out.println("Vector2 nhan voi hang so: " + "(a*k)= "+nhanhs1 +" (b*k)= "+ nhanhs2 +" (c*k)= "+ nhanhs3);
     return 0;
    
 }
